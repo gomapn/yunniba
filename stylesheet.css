@@ -1,0 +1,72 @@
+body{
+    font-family:"Mv Boli";
+}
+.header-logo{
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+}
+.header{
+    background-color:#26d0c9;
+    color:#fff;
+    height: 90px;
+}
+.header-list li {
+    float: left;
+    padding:35px 10px;
+    list-style: none;
+}
+.main h1{
+    font-size:60px;
+    padding: 10px 30px;
+}
+.main-list {
+    font-size: 30px;
+    padding: 5px 30px;
+}
+.main-trouble h1 {
+    font-size: 45px;
+    border-top: 3px solid #c0c0c0;
+    padding: 2px 40px;
+}
+.main-trouble p {
+    font-size: 20px;
+    padding: 3px 22px;
+}
+.main-answer h1 {
+    font-size: 45px;
+    border-top: 3px solid #c0c0c0;
+    padding: 2px 40px;
+}
+.main-answer p {
+    font-size: 20px;
+    padding: 3px 65px;
+}
+.footer{
+    background: darkgray;
+    height: 50px;
+}
+.footer-logo{
+    font-size: 25px;
+    padding: 6px 10px;
+    float: left;
+}
+.footer-list li{
+    list-style: none;
+    float: left;
+    padding:13px;
+}
+.footer-right li{
+    float: right;
+    list-style: none;
+    padding: 13px 10px;
+}
+.main-consequence h1{
+    border-top: 3px solid #c0c0c0;
+    font-size: 45px;
+    padding: 2px 40px;
+}
+.main-consequence p{
+    font-size: 20px;
+    padding: 3px 65px;
+}
